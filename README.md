@@ -6,3 +6,5 @@ Hi 🤟🏼 I am JiHoon 🧑🏻‍💻
 - ✍️ I’m writing Engineering Blog
 - 💬 Ask me about python
 - 📫 You can cantact me: wlgns410@gmail.com
+
+![jihoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=wlgns410&show_icons=true&theme=highcontrast)
