@@ -1,4 +1,4 @@
-Hi 🤟🏼 I am JiHoon 🧑🏻‍💻
+Hi! 🤟🏼 I am JiHoon 🧑🏻‍💻
 
 - 🔭 I’m currently working on something new.
 - 🌱 I’m currently learning Python, Docker and AWS
